@@ -3,6 +3,7 @@ select * from Transactions;
 select * from AppointmentDetails;
 select * from HealthcareProfessionals;
 select * from MedicationsPrescribed;
+select * from PatientRecords;
 
 
 -- Appointment and Patient Data
